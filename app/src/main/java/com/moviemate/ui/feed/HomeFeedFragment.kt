@@ -220,3 +220,4 @@ class HomeFeedFragment : Fragment() {
         _binding = null
     }
 }
+
