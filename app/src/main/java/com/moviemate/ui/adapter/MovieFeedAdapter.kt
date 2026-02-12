@@ -69,3 +69,4 @@ class MovieFeedAdapter(
             old == new
     }
 }
+
